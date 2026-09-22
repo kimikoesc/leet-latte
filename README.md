@@ -8,7 +8,7 @@ This repo auto-syncs my solved [LeetCode](https://leetcode.com/) problems using 
 
 | Metric | Count |
 |---|---|
-| Problems Solved | [![LeetCode Stats](https://jacoblin.cool)](https://leetcode.com/u/kimikoesc/) |
+| Problems Solved | ![Leetcode Stats](https://leetcard.jacoblin.cool/kimikoesc) |
 | Easy | 🟢 |
 | Medium | 🟡 |
 | Hard | 🔴 |
